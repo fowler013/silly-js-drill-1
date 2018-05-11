@@ -3,7 +3,12 @@ body{
 }
 h1{
     color: firebrick;
+    text-align: center;
 }
 .friend{
-    background-color: wheat
+    background-color: wheat;
+    text-align: center;
+}
+h3{
+    text-transform: uppercase
 }
