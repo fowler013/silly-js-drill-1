@@ -8,8 +8,9 @@ h1{
 .friend{
     background-color: rgb(241, 240, 238);
     text-align: center;
+    padding: 15em;
     width: 30em;
-    height: 100em;
+    height: 150em;
     margin: auto;
 }
 .friend h3{
