@@ -1,14 +1,17 @@
-body{
-    background: green;
+html{
+    background: rgb(199, 199, 199);
 }
 h1{
     color: firebrick;
     text-align: center;
 }
 .friend{
-    background-color: wheat;
+    background-color: rgb(241, 240, 238);
     text-align: center;
+    width: 30em;
+    height: 100em;
+    margin: auto;
 }
-h3{
+.friend h3{
     text-transform: uppercase
 }
